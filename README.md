@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 # 👋 Hi, I'm Ahmed Elsayed Abdelmawla Elsayed
 
 Detail-oriented Data Analyst and aspiring Data Scientist with a passion for turning complex data into actionable insights. IBM-certified Professional Data Analyst, currently pursuing a Master's in Sustainable Industrial Pharmaceutical Biotechnology at Università degli Studi di Siena. With a background in pharmaceutical auditing, teaching, and ML projects, I specialize in healthcare and business analytics. Let's collaborate on data-driven innovations!
