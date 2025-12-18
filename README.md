@@ -3,7 +3,7 @@
 Detail-oriented Data Analyst and aspiring Data Scientist with a passion for turning complex data into actionable insights. IBM-certified Professional Data Analyst, currently pursuing a Master's in Sustainable Industrial Pharmaceutical Biotechnology at Università degli Studi di Siena. With a background in pharmaceutical auditing, teaching, and ML projects, I specialize in healthcare and business analytics. Let's collaborate on data-driven innovations!
 
 📍 Siena, Italy | 🌍 Open to remote/hybrid roles worldwide  
-🗣️ Languages: Arabic (Native), English (Fluent, IELTS 8.0), Italian (Beginner)
+🗣️ Languages: Arabic (Native), English (Fluent, IELTS 8.0), Italian (A2)
 
 ## 🚀 Skills
 - **Programming & Tools**: Python (Pandas, NumPy, Scikit-learn), SQL (PostgreSQL, MySQL), Power BI, Excel, Google Sheets
